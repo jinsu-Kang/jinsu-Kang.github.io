@@ -12,19 +12,19 @@
       {
         "id": 0,
         "title": "Threat Diagram",
-        "diagramType": "STRIDE",
-        "placeholder": "New STRIDE diagram description",
-        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "LINDDUN",
+        "placeholder": "New LINDDUN diagram description",
+        "thumbnail": "./public/content/images/thumbnail.linddun.jpg",
         "version": "2.5.0",
         "cells": [],
         "description": "Threat Diagram"
       },
       {
         "id": 1,
-        "title": "New CIA diagram",
-        "diagramType": "CIA",
-        "placeholder": "New CIA diagram description",
-        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
+        "title": "New PLOT4ai diagram",
+        "diagramType": "PLOT4ai",
+        "placeholder": "New PLOT4ai diagram description",
+        "thumbnail": "./public/content/images/thumbnail.plot4ai.jpg",
         "version": "2.5.0",
         "cells": [
           {
@@ -419,9 +419,18 @@
             }
           }
         ]
+      },
+      {
+        "id": 2,
+        "title": "New CIA-DIE diagram",
+        "diagramType": "CIADIE",
+        "placeholder": "New CIA-DIE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.die.jpg",
+        "version": "2.5.0",
+        "cells": []
       }
     ],
-    "diagramTop": 2,
+    "diagramTop": 4,
     "reviewer": "",
     "threatTop": 2
   }

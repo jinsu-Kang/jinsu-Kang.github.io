@@ -12,9 +12,9 @@
       {
         "id": 0,
         "title": "Threat Diagram",
-        "diagramType": "LINDDUN",
-        "placeholder": "New LINDDUN diagram description",
-        "thumbnail": "./public/content/images/thumbnail.linddun.jpg",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.5.0",
         "cells": [],
         "description": "Threat Diagram"
